@@ -23,9 +23,17 @@ SocialHub is a scheduling tool for creators and small businesses to plan, upload
 
 ## Screenshots
 
-Real app screenshots will be added here as the app reaches its next public preview. The app icon and marketing visuals are the current preview assets.
+![SocialHub dashboard](screenshots/01-dashboard.jpg)
+*Dashboard — brand health score and totals at a glance.*
 
-*Screenshots coming soon — this page will be updated when the next preview is ready.*
+![SocialHub AI Studio](screenshots/02-ai-studio.jpg)
+*AI Studio — BESS, the built-in assistant that writes captions, picks hashtags, and schedules.*
+
+![SocialHub analytics](screenshots/03-analytics.jpg)
+*Analytics — follower growth across Instagram, Facebook, Twitter, and LinkedIn, plus platform breakdown.*
+
+![SocialHub campaigns](screenshots/04-campaigns.jpg)
+*Campaigns — ad setup across Meta, Google Ads, TikTok Ads, LinkedIn Ads, and X Ads.*
 
 ## Showcase only — no source code
 
